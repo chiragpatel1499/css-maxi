@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#id1{
+    background-color: chocolate;
+}
+#id1 h1{
+    color: chartreuse;
+    font-family: 'Anton', sans-serif;
+}
+.section-title{
+    /* background-color: crimson; */
+    font-family: inherit
+}
+h1{
+    font-family: sans-serif;
+}
